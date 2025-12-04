@@ -4,11 +4,20 @@
 
 ```cmd
 pip install uv
+```
 2.**Клонирование репозитория**
+
+```cmd
 git clone https://github.com/rztuyz/OpenCV_google
 cd OpenCV_google
+```
 3.**Установка зависимостей**
-uv sync
-4.**Запуск проекта** 
-uv run main.py
 
+```cmd
+uv sync
+```
+4.**Запуск проекта** 
+
+```cmd
+uv run main.py
+```
